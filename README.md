@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @vipul818
-- I’m interested in Python and Data Science.
-- I’m currently learning Machine Learning.
 <h1 align="center">Hi 👋, I'm Vipul Anand</h1>
 <h3 align="center">ML enthusiast from India</h3>
+<h3 align="center">- I’m interested in Python and Data Science.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul818&label=Profile%20views&color=0e75b6&style=flat" alt="vipul818" /> </p>
 
