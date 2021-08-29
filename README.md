@@ -3,7 +3,6 @@
 <h3 align="center">- I’m interested in Python and Data Science.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipul818&label=Profile%20views&color=0e75b6&style=flat" alt="vipul818" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipul818" alt="vipul818" /></a> </p>
 
