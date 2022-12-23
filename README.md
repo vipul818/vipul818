@@ -2,6 +2,9 @@
 <h3 align="center">ML enthusiast from India</h3>
 <h3 align="center">- I’m interested in Python and Data Science.
 </h3>
+<h3 align="center">- I’m final year undergrad student pursuing B.Tech. in CSE from Haldia Institute of Technology.
+</h3>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipul818" alt="vipul818" /></a> </p>
