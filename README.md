@@ -2,7 +2,7 @@
 <h3 align="center">ML enthusiast from India</h3>
 <h3 align="center">- I’m interested in Python and Data Science.
 </h3>
-<h3 align="center">- I’m final year undergrad student pursuing B.Tech. in CSE from Haldia Institute of Technology.
+<h3 align="center">- I’m B.Tech. graduate in CSE from Haldia Institute of Technology.
 </h3>
 
 
